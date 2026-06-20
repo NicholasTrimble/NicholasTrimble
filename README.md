@@ -68,12 +68,12 @@ Software Engineer and Data Analyst focused on building high performance .NET ful
 
 ## CERTIFICATIONS
 
-* ☁️ **AWS Certified Cloud Practitioner**[cite: 1, 2, 3]
-* 📋 **CompTIA Project+**[cite: 1, 2, 3]
-* ⚙️ **ITIL 4 Foundation**[cite: 1, 2, 3]
+ * **AWS Certified Cloud Practitioner**
+ * **CompTIA Project+**
+ * **ITIL 4 Foundation**
 
 ---
 
 ## CONNECT WITH ME
 
-[💼 LinkedIn](https://linkedin.com/in/nick-trimble) | [🖥️ Portfolio](https://nicholastrimble.netlify.app) | [✉️ Email](mailto:nicktrimble07@gmail.com)
+[ LinkedIn](https://linkedin.com/in/nick-trimble) | [ Portfolio](https://nicholastrimble.netlify.app) | [ Email](mailto:nicktrimble07@gmail.com)
