@@ -19,7 +19,7 @@ Software Engineer and Data Analyst focused on building high performance .NET ful
 ## LIVE DEVELOPER METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholastrimble&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nicholastrimble&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 
